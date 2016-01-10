@@ -7,7 +7,7 @@
 **Как установить?**
 
 1. Перейдите Настройки, выберите пункт Расширения ([chrome://extensions/](chrome://extensions/)) и поставьте галку возле «Режим разработчика» (верхний правый угол).
-2. Скачайте упакованное расширение с одного из источников: [rghost](http://rghost.ru/6MGTHXBNG), [github](https://github.com)
+2. Скачайте упакованное расширение с одного из источников: [rghost](http://rghost.ru/6MGTHXBNG), [github](https://github.com/Taras-S/Autobumper/blob/master/2ch_Autobumper.crx?raw=true)
 3. Откройте папку со скачанным расширением и перетяните расширение на панель расширений
 
 **Какой интервал бампов?**
