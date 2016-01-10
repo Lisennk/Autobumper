@@ -1,0 +1,27 @@
+ {
+  "manifest_version": 2,
+  "name": "Двач Автобамп",
+  "version": "1.0",
+  "author": "http://vk.com/taras_serevann",
+  "description": "Для начала автоматического бампа треда войдите в тред и нажмите на иконку расширения.",
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "*://2ch.hk/*" ],
+      "js": [ "content.js" ]
+    }
+  ],
+  "permissions": [
+    "https://2ch.hk/*"
+  ],
+
+      "browser_action": {
+        "default_title": "Двач Автобамп",
+        "default_icon": "icon48.png",
+        "default_popup": "popup.html"
+    }
+	
+}
